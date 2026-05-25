@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productvalidate",
+        "uuid": 143748,
+        "checksum": "pnb6zf"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
